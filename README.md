@@ -54,7 +54,7 @@ Resultado:
 └── css/                # Diretório de estilos (opcional)
 
 ```
-*** 🔍 Explicação do Código
+## 🔍 Explicação do Código
 
 O cálculo do IMC é feito através de uma função arrow em JavaScript:
 
@@ -75,7 +75,7 @@ let tabela = resultadoIMC < 18.5 ? "Você está abaixo do peso" :
 
 ```
 
-** 🔧 Melhoria Futura
+## 🔧 Melhoria Futura
 🛡️ **Validação de entrada:** Adicionar verificações para garantir que a altura e o peso inseridos sejam números válidos.
 
 🎨 **Melhorias na UI**: Adicionar estilos customizados além do Bootstrap para melhorar a aparência.
